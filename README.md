@@ -12,24 +12,24 @@ There is no max number of rolls, however there is a minimum of 1 and the default
 # Examples
 `python3 generator.py`
 ```
-Chosen: hut unenvied germless suitably ripening 
-Password: hutunenviedgermlesssuitablyripening
-Password length: 35
-Entropy: 188.02 bits
+Chosen: irate stillness composer scruffy frown 
+Password: iratestillnesscomposerscruffyfrown
+Password length: 34
+Entropy: 159.81 bits
 ```
 `python3 generator.py -t -r 6`
 ```
-Chosen: Jokingly Shudder Pointy Hybrid Gaffe Mystify 
-Password: JokinglyShudderPointyHybridGaffeMystify
-Password length: 39
-Entropy: 256.52 bits
+Chosen: Untie Rural Glorify Splinter Nativity Crimson 
+Password: UntieRuralGlorifySplinterNativityCrimson
+Password length: 40
+Entropy: 228.02 bits
 ```
 `python3 generator.py -s -r 12 -t`
 ```
-Chosen: Remarry / Panning " Spouse " Operating . Immobile $ Urethane < Revenge * Apprehend ] Diffusion | Payday { Septum : Parole 
-Password: Remarry/Panning"Spouse"Operating.Immobile$Urethane<Revenge*Apprehend]Diffusion|Payday{Septum:Parole
-Password length: 99
-Entropy: 779.86 bits
+Chosen: Hatchery * Duly ` Wasting \ Womanhood % Require , Duvet / Genetics ? Reverb > Stature " Surfboard @ Cryptic > Canopener 
+Password: Hatchery*Duly`Wasting\Womanhood%Require,Duvet/Genetics?Reverb>Stature"Surfboard@Cryptic>Canopener
+Password length: 97
+Entropy: 620.05 bits
 ```
 
 # Notes
