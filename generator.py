@@ -51,7 +51,7 @@ def main():
     print(f'Chosen: {password}')
     print(f'Password: {real_password}')
     print(f'Password length: {len(real_password)}')
-    print(f'Entropy: {len(password) * math.log2(char_pool_size):.2f} bits')
+    print(f'Entropy: {len(real_password) * math.log2(char_pool_size):.2f} bits')
 
 if __name__ == "__main__":
     main()
