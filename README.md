@@ -7,7 +7,7 @@ This generator has 3 optional command-line arguments:
 - `-t` append words in title case
 - `-s` append random symbols between words
 
-There is no max number of rolls, however there is a minimum of 1. All command-line arguments may be used concurrently.
+There is no max number of rolls, however there is a minimum of 1 and the default is 5. All command-line arguments may be used concurrently.
 
 # Examples
 `python3 generator.py`
